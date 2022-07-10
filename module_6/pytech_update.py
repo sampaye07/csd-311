@@ -1,8 +1,8 @@
 """ 
     Title: pytech_update.py
-    Author: Professor Krasso
-    Date: 10 July 2020
-    Description: Test program for updating a document in the pytech collection
+    Author: Professor Lappe
+    Date: 20220710
+    Description: Update
 """
 
 """ import statements """
